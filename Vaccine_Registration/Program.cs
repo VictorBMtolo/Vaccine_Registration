@@ -16,7 +16,7 @@ namespace Vaccine_Registration
             Console.WriteLine("Firstname: ");
             string Firstname = Console.ReadLine();
 
-            Console.WriteLine("Gender: ");
+            Console.WriteLine("Enter Gender: ");
             string Gender = Console.ReadLine();
 
             Console.WriteLine("Date of Registration: ");
